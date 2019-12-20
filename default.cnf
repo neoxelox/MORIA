@@ -1,0 +1,13 @@
+Moria 1.1
+nb_players           4
+nb_rounds          200
+nb_dwarves          20
+nb_wizards           5
+max_nb_orcs         20
+nb_trolls            4
+treasure_value      10
+rock_resistance      5
+rows                60
+cols                60
+
+GENERATOR
